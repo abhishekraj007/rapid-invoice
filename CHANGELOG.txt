@@ -1,0 +1,45 @@
+CHANGELOG
+
+v1.1.1
+
+[FIXED] Fixed header navigation to use relative paths.
+[FIXED] Fixed JS / CSS Paths to use relative paths.
+[FIXED] Fixed issue with system causing issues when PHP error handling was on showing constants already defined.
+[FIXED] Fixed character encoding.
+
+v1.1
+
+[UPDATED] Updated mysqli Queries to prepare statements to better prevent the possibility of SQL Injections.
+[REMOVED] Removed new mysqi connections within all actions in response file as were not needed.
+[FIXED] Fixed response messages that were out of the container and causing layout issues.
+[ADDED] Invoice Type: Added 3 seperate email bodies for each invoice type.
+[ADDED] Custom email body option above create invoice, overrides defaults for that invoice.
+[TODO] Add payment terms (select from terms or enter manually) under order notes.
+[FIXED] Fixed Generate CSV so orders are not separated but onto 1 line with all invoice data.
+[ADDED] Remove VAT checkbox to remove VAT from invoice and product sub-totals.
+[FIXED] Invoice discount issue when editing invoice.
+[ADDED] Enable system calculate VAT ex VAT and not VAT included.
+[ADDED] Add VAT for shipping cost.
+[ADDED] Make QTY Input wider to displays larger digits.
+[ADDED] Custom email body option above create invoice, overrides defaults for that invoice.
+[ADDED] Added ability to modify users.
+[ADDED] Added password strength functionality.
+[ADDED] Added Name field to users.
+[UPDATED] Login / User registration and User update updated.
+
+v1.0
+
+[ADDED] Ability to create invoices.
+[ADDED] Ability to manage invoices.
+[ADDED] Added functionality to email / download invoice.
+[ADDED] Added functionality to calculate invoice totals.
+[ADDED] Added functionality for VAT/TAX (inc/ex) enable / disable.
+[ADDED] Added shipping cost and calculations.
+[ADDED] Ability to create customers.
+[ADDED] Ability to manage customers.
+[ADDED] Ability to create items / products.
+[ADDED] Ability to manage items / products.
+[ADDED] Added user management to access system.
+[ADDED] Generate and download customer / order CSV.
+[ADDED] Order statuses open / paid.
+[ADDED] Configuration file to configure system settings. (see docs)

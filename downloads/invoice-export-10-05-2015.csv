@@ -1,0 +1,7 @@
+id,invoice,invoice_date,invoice_due_date,subtotal,shipping,discount,vat,total,notes,status
+21,1000,20/05/2015,13/05/2015,462,20,134,92,482,"Please leave with next door",open
+id,invoice,name,email,address_1,address_2,town,county,postcode,phone,name_ship,address_1_ship,address_2_ship,town_ship,county_ship,postcode_ship
+21,1000,"James Brandon",james@ambientlounge.com,"5 Frampton Road",,Epping,Essex,"CM16 6RP",07718090809,"James Brandon","5 Frampton Road",,Epping,Essex,"CM16 6RP"
+id,invoice,product,qty,price,discount,subtotal
+48,1000,"Versa Table - Blue Jazz",3,149.000,30.000,312.900
+47,1000,"Versa Table - Wildberry",1,149.000,0.000,149.000
