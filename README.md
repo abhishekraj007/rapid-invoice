@@ -27,6 +27,19 @@ The system provides some other awesome features which include instant invoice ca
 <li> And lot more...</li>
 </ul>
 
+
+<h2>Technology, Tools and Plugin Used</h2>
+
+<ul>
+<li>PHP & MySql</li>
+<li>Boostrap</li>
+<li>JQuery</li>
+<li>PHPMailer</li>
+<li>TimePicker</li>
+<li>ColorPicker</li>
+<li>fpdf: To generate Pdf files</li>
+</ul>
+
 <h2>Requirements to run the project</h2>
 <ul>
 <li>PHP 5.0+</li>
@@ -47,7 +60,11 @@ The system provides some other awesome features which include instant invoice ca
 </ul>
 
 
+<h2>Credits</h2>
+<li>http://www.fpdf.org/</li>
+<li>https://almsaeedstudio.com/</li>
 
 
-This invoice system can be used for any type of invoicing from general in-house invoicing, e-commerce, to product and services invoicing.
+<h2>Note</h2>
+This invoice system can be used for any type of invoicing from general in-house invoicing, e-commerce, to product and services invoicing. However, System may contain bugs. Feel free to report. And fork the repository to play and add some more functionality.
  
