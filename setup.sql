@@ -118,4 +118,4 @@ CREATE TABLE IF NOT EXISTS `users` (
 ) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=17 ;
 
 INSERT INTO `users` (`id`, `name`, `username`, `email`, `phone`, `password`) VALUES
-(1, 'Joe Bloggs', 'admin', 'admin@yourdomain.co.uk', '', '21232f297a57a5a743894a0e4a801fc3')
+(1, 'Abhi Raj', 'admin', 'admin@abhishekraj.info', '', '21232f297a57a5a743894a0e4a801fc3')

@@ -15,21 +15,36 @@ The system provides some other awesome features which include instant invoice ca
 <h2>Features</h2>
 
 <ul>
-    <li>Responsive layout so will be easily accessible on multiple devices like Desktop, Tablets and Mobile Devices</li>
-    
-    <li>Create Invoice and receipts</li>
-    
-<li>Unique invoice numbers</li>
+<li>Responsive Designing, easily access on different devices.</li>
+<li>Generate Invoices and receipts</li>
+<li>Unique bill numbers</li>
+<li>Functionality to create invoice item each time or choose from database.</li>
 <li>Functionality to add and remove TAX.</li>
-<li>Functionality to create invoice item each time or choose from already created</li>
-<li>	Manually Enter shipping details or select from database</li>
-<li>	Functionality to send invoices throught email</li>
+<li>	Enter shipping details manually or select from database while creating bill</li>
+<li>	Send receipts on clients email</li>
 <li>	Generate downloadable PDf and Excel files</li>
-
-<li>	User management: allows you to create system users to login and use the system</li>
+<li>	User management: create users to login and use the system</li>
+<li> And lot more...</li>
 </ul>
 
 <h2>Requirements to run the project</h2>
+<ul>
+<li>PHP 5.0+</li>
+<li>MYSQL Database</li>
+</ul>
+
+<h2>Setup</h2>
+
+<ul>
+<li>Clone the repository to your system</li>
+<li>Upload the all files to your web hosting via FTP on your online file manager</li>
+<li>Change folder permissions to 0777</li>
+<li>Setup / Create your database, user and password in mysql / phpmyadmin or your hosting control panel</li>
+<li>Import the setup.sql file from the folder to the database</li>
+<li>Open "includes/config.php" and configure the file with database</li>
+<li>Enter the default login details, username: admin - password: admin</li>
+<li>That's it. Enjoy the system for free.</li>
+</ul>
 
 
 
