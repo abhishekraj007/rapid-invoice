@@ -1,16 +1,16 @@
 <?php
 /*******************************************************************************
-* Simplified PHP Invoice System                                                *
-*                                                                              *
-* Version: 1.1.1	                                                               *
-* Author:  James Brandon                                    				   *
+* Invoice System                                            					*
+*                                                                               *
+* Version: 1.0                                                      	        *
+* Author:  Abhishek Raj                                   						*
 *******************************************************************************/
 
 include('header.php');
 
 ?>
 
-<h1>Add Product</h1>
+<h2>Add Product</h2>
 <hr>
 
 <div id="response" class="alert alert-success" style="display:none;">

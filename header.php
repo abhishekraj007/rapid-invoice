@@ -80,7 +80,7 @@
             </a>
             <ul class="dropdown-menu">
              <!-- Drop down list-->
-              <li><a href="logout.php" class="btn btn-default btn-flat"><h4>Sign out</h4></a></li>
+              <li><a href="logout.php" class="btn btn-default btn-flat">Sign out</a></li>
             </ul>
           </li>
         </ul>
