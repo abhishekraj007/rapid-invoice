@@ -104,7 +104,7 @@ CREATE TABLE IF NOT EXISTS `store_customers` (
 -- --------------------------------------------------------
 
 --
--- Table structure for table `users`
+-- Table structure for `users`
 --
 
 CREATE TABLE IF NOT EXISTS `users` (
