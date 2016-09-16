@@ -4,7 +4,9 @@ Rapid Invoice Management system is a fast cloud based invoicing / billing soluti
 
 The system provides some other awesome features which include instant invoice calculations for items, quantity, discounts, Taxes / VAT and total without any extra effort.
 
-{% img class="img-responsive" src="screenshots/login.png" login_page %}
+<img src="screenshots/login.png" alt="login_page"/>
+<img src="screenshots/products.png" alt="products_page"/>
+<img src="screenshots/create_invoice.png" alt="Create Invoice"/>
 
 
 
