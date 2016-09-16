@@ -17,8 +17,8 @@ include('functions.php');
 		<div class="message"></div>
 	</div>
 
-	<div class="col-md-4 col-md-offset-4 login-form">
-		<div class="panel panel-default">
+	<div class="col-md-4 col-md-offset-4">
+		<div class="panel panel-default login-panel">
 		  	<div class="panel-heading panel-login">
 		  		<h1 class="text-center">
 					<img src="<?php echo COMPANY_LOGO ?>" class="img-responsive">
@@ -29,10 +29,12 @@ include('functions.php');
 		    	<form accept-charset="UTF-8" role="form" method="post" id="login_form">
 		    		<input type="hidden" name="action" value="login">
 	                <fieldset>
-			    	  	<div class="form-group">
+			    	  	<div class="input-group form-group">
+			    	  		<div class="input-group-addon"><i class="glyphicon glyphicon-user"></i></div>
 			    		    <input class="form-control required" name="username" id="username" type="text" placeholder="Enter username" autofocus>
 			    		</div>
-			    		<div class="form-group">
+			    		<div class="input-group form-group">
+			    		 	<div class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></div>
 			    			<input class="form-control required" placeholder="Password" name="password" type="password" placeholder="Enter password">
 			    		</div>
 			    		<div class="checkbox">

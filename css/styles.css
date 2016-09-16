@@ -5,6 +5,11 @@
 * Author: Abhishek Raj                                   				   *
 *******************************************************************************/
 
+body {
+	padding: 0; 
+	background-color: #605ca8;
+}
+
 .btn-primary{
 	background-color: #9966cc;
 	border-color: #9966cc;
@@ -32,18 +37,24 @@
 
 .panel-login{
 	background-color: #ffffff!important;
-}
-
-body {
-	padding: 0; 
+	/*box-shadow: 5px 0px 77px #333;*/
 }
 
 .clear { 
 	clear: both;
 }
 
+.login-panel{
+	box-shadow: 5px 0px 77px #333;
+	margin-top: 150px;
+}
+
 .panel-body {
-	padding: 15px 15px 0 15px;
+	padding: 30px 30px 15px 30px;
+}
+
+.panel-heading{
+	padding: 15px 30px 15px 30px;
 }
 
 .float-left {
@@ -158,3 +169,7 @@ strong.shipping {
 .login-form{
 	margin-top: 100px;
 }
+
+
+
+
