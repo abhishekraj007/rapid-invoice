@@ -15,13 +15,13 @@ The system provides some other awesome features which include instant invoice ca
 <h2>Features</h2>
 
 <ul>
-<li>Responsive Designing, easily access on different devices.</li>
+<li>Responsive Designing, easily accessible on different devices.</li>
 <li>Generate Invoices and receipts</li>
 <li>Unique bill numbers</li>
 <li>Functionality to create invoice item each time or choose from database.</li>
 <li>Functionality to add and remove TAX.</li>
 <li>	Enter shipping details manually or select from database while creating bill</li>
-<li>	Send receipts on clients email</li>
+<li>	Send receipts to client's email address</li>
 <li>	Generate downloadable PDf and Excel files</li>
 <li>	User management: create users to login and use the system</li>
 <li> And lot more...</li>
